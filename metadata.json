@@ -1,0 +1,5 @@
+{
+  "name": "Modern Shop Simulation",
+  "description": "A complete e-commerce application simulation. Features user authentication, product catalog, shopping cart, order placement, and an admin dashboard. Uses local storage to persist data, mimicking a real backend database.",
+  "requestFramePermissions": []
+}
